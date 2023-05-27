@@ -1,0 +1,354 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "name": "John Smith",
+            "totalMarks": 72,
+            "degreeName": "BSc Math",
+            "rollNumber": "0001"
+        },
+        {
+            "id": 2,
+            "name": "Emily Johnson",
+            "totalMarks": 85,
+            "degreeName": "BE CS",
+            "rollNumber": "0002"
+        },
+        {
+            "id": 3,
+            "name": "Michael Williams",
+            "totalMarks": 64,
+            "degreeName": "BA Eng",
+            "rollNumber": "0003"
+        },
+        {
+            "id": 4,
+            "name": "Jessica Brown",
+            "totalMarks": 91,
+            "degreeName": "BBA",
+            "rollNumber": "0004"
+        },
+        {
+            "id": 5,
+            "name": "Christopher Jones",
+            "totalMarks": 56,
+            "degreeName": "BSc Phys",
+            "rollNumber": "0005"
+        },
+        {
+            "id": 6,
+            "name": "Emma Davis",
+            "totalMarks": 78,
+            "degreeName": "BCom",
+            "rollNumber": "0006"
+        },
+        {
+            "id": 7,
+            "name": "Daniel Wilson",
+            "totalMarks": 89,
+            "degreeName": "BTech Mech",
+            "rollNumber": "0007"
+        },
+        {
+            "id": 8,
+            "name": "Olivia Taylor",
+            "totalMarks": 70,
+            "degreeName": "BSc Chem",
+            "rollNumber": "0008"
+        },
+        {
+            "id": 9,
+            "name": "Matthew Anderson",
+            "totalMarks": 63,
+            "degreeName": "BA Psych",
+            "rollNumber": "0009"
+        },
+        {
+            "id": 10,
+            "name": "Ava Clark",
+            "totalMarks": 82,
+            "degreeName": "BE EE",
+            "rollNumber": "0010"
+        },
+        {
+            "id": 11,
+            "name": "Sarah Martinez",
+            "totalMarks": 77,
+            "degreeName": "BSc Bio",
+            "rollNumber": "0011"
+        },
+        {
+            "id": 12,
+            "name": "David Thomas",
+            "totalMarks": 68,
+            "degreeName": "BA Hist",
+            "rollNumber": "0012"
+        },
+        {
+            "id": 13,
+            "name": "Isabella Hernandez",
+            "totalMarks": 93,
+            "degreeName": "BTech IT",
+            "rollNumber": "0013"
+        },
+        {
+            "id": 14,
+            "name": "Mia Walker",
+            "totalMarks": 72,
+            "degreeName": "BSc Env",
+            "rollNumber": "0014"
+        },
+        {
+            "id": 15,
+            "name": "Joseph Hill",
+            "totalMarks": 88,
+            "degreeName": "BE Civil",
+            "rollNumber": "0015"
+        },
+        {
+            "id": 16,
+            "name": "Sophia Moore",
+            "totalMarks": 79,
+            "degreeName": "BA Soc",
+            "rollNumber": "0016"
+        },
+        {
+            "id": 17,
+            "name": "James Baker",
+            "totalMarks": 71,
+            "degreeName": "BSc Geol",
+            "rollNumber": "0017"
+        },
+        {
+            "id": 18,
+            "name": "Charlotte Perry",
+            "totalMarks": 92,
+            "degreeName": "BPharm",
+            "rollNumber": "0018"
+        },
+        {
+            "id": 19,
+            "name": "Benjamin Long",
+            "totalMarks": 63,
+            "degreeName": "BEd",
+            "rollNumber": "0019"
+        },
+        {
+            "id": 20,
+            "name": "Amelia Rivera",
+            "totalMarks": 86,
+            "degreeName": "BSc CompSci",
+            "rollNumber": "0020"
+        },
+        {
+            "id": 21,
+            "name": "Lucas Collins",
+            "totalMarks": 74,
+            "degreeName": "BBA Fin",
+            "rollNumber": "0021"
+        },
+        {
+            "id": 22,
+            "name": "Harper Reed",
+            "totalMarks": 81,
+            "degreeName": "BSc Econ",
+            "rollNumber": "0022"
+        },
+        {
+            "id": 23,
+            "name": "Elijah Cook",
+            "totalMarks": 66,
+            "degreeName": "BA Philo",
+            "rollNumber": "0023"
+        },
+        {
+            "id": 24,
+            "name": "Grace Coleman",
+            "totalMarks": 90,
+            "degreeName": "BTech ECE",
+            "rollNumber": "0024"
+        },
+        {
+            "id": 25,
+            "name": "Daniel Richardson",
+            "totalMarks": 69,
+            "degreeName": "BSc Astro",
+            "rollNumber": "0025"
+        },
+        {
+            "id": 26,
+            "name": "Sofia Cooper",
+            "totalMarks": 87,
+            "degreeName": "BPharm PharmD",
+            "rollNumber": "0026"
+        },
+        {
+            "id": 27,
+            "name": "Jack Lee",
+            "totalMarks": 78,
+            "degreeName": "BE Mech",
+            "rollNumber": "0027"
+        },
+        {
+            "id": 28,
+            "name": "Liam Ward",
+            "totalMarks": 73,
+            "degreeName": "BA EngLing",
+            "rollNumber": "0028"
+        },
+        {
+            "id": 29,
+            "name": "Victoria Bell",
+            "totalMarks": 84,
+            "degreeName": "BCom Acc",
+            "rollNumber": "0029"
+        },
+        {
+            "id": 30,
+            "name": "Alexander Murphy",
+            "totalMarks": 76,
+            "degreeName": "BSc Stat",
+            "rollNumber": "0030"
+        },
+        {
+            "id": 31,
+            "name": "Madison Russell",
+            "totalMarks": 95,
+            "degreeName": "BTech CSE",
+            "rollNumber": "0031"
+        },
+        {
+            "id": 32,
+            "name": "Jacob Young",
+            "totalMarks": 67,
+            "degreeName": "BSc Micro",
+            "rollNumber": "0032"
+        },
+        {
+            "id": 33,
+            "name": "Abigail Flores",
+            "totalMarks": 81,
+            "degreeName": "BA Soc",
+            "rollNumber": "0033"
+        },
+        {
+            "id": 34,
+            "name": "William Torres",
+            "totalMarks": 73,
+            "degreeName": "BSc Geol",
+            "rollNumber": "0034"
+        },
+        {
+            "id": 35,
+            "name": "Elizabeth Simmons",
+            "totalMarks": 88,
+            "degreeName": "BPharm",
+            "rollNumber": "0035"
+        },
+        {
+            "id": 36,
+            "name": "Josephine Coleman",
+            "totalMarks": 63,
+            "degreeName": "BEd",
+            "rollNumber": "0036"
+        },
+        {
+            "id": 37,
+            "name": "Henry Rivera",
+            "totalMarks": 89,
+            "degreeName": "BSc CompSci",
+            "rollNumber": "0037"
+        },
+        {
+            "id": 38,
+            "name": "Avery Morgan",
+            "totalMarks": 77,
+            "degreeName": "BBA Fin",
+            "rollNumber": "0038"
+        },
+        {
+            "id": 39,
+            "name": "Scarlett Reed",
+            "totalMarks": 82,
+            "degreeName": "BSc Econ",
+            "rollNumber": "0039"
+        },
+        {
+            "id": 40,
+            "name": "Gabriel Cook",
+            "totalMarks": 74,
+            "degreeName": "BA Philo",
+            "rollNumber": "0040"
+        },
+        {
+            "id": 41,
+            "name": "Grace Peterson",
+            "totalMarks": 93,
+            "degreeName": "BTech ECE",
+            "rollNumber": "0041"
+        },
+        {
+            "id": 42,
+            "name": "Dylan Young",
+            "totalMarks": 68,
+            "degreeName": "BSc Astro",
+            "rollNumber": "0042"
+        },
+        {
+            "id": 43,
+            "name": "Chloe Murphy",
+            "totalMarks": 84,
+            "degreeName": "BPharm PharmD",
+            "rollNumber": "0043"
+        },
+        {
+            "id": 44,
+            "name": "Jonathan Ward",
+            "totalMarks": 70,
+            "degreeName": "BE Mech",
+            "rollNumber": "0044"
+        },
+        {
+            "id": 45,
+            "name": "Natalie Bell",
+            "totalMarks": 79,
+            "degreeName": "BA EngLing",
+            "rollNumber": "0045"
+        },
+        {
+            "id": 46,
+            "name": "Ethan Russell",
+            "totalMarks": 65,
+            "degreeName": "BCom Acc",
+            "rollNumber": "0046"
+        },
+        {
+            "id": 47,
+            "name": "Hannah Simmons",
+            "totalMarks": 91,
+            "degreeName": "BSc Stat",
+            "rollNumber": "0047"
+        },
+        {
+            "id": 48,
+            "name": "Ryan Thompson",
+            "totalMarks": 76,
+            "degreeName": "BTech CSE",
+            "rollNumber": "0048"
+        },
+        {
+            "id": 49,
+            "name": "Landon Young",
+            "totalMarks": 67,
+            "degreeName": "BSc Micro",
+            "rollNumber": "0049"
+        },
+        {
+            "id": 50,
+            "name": "Audrey Flores",
+            "totalMarks": 85,
+            "degreeName": "BA Soc",
+            "rollNumber": "0050"
+        }
+    ]
+}
